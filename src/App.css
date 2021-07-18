@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=PT+Sans&display=swap');
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: var(--color3);
+}
+
+body {
+  max-width: 960px;
+  min-width: 360px;
+  margin: auto;
+  margin-top: 2px;
+  border: grey;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+:root {
+  --color0: #0C1721;
+  --color1: #D9D9D9;
+  --color2: #F9A25B;
+  --color3: #D3D3D3;
+  --color4: #339f95;
+
+  --font0:  'PT Sans', sans-serif;
+  --font1:  'Merienda', cursive;
+ }
+

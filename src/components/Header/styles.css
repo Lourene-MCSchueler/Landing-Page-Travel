@@ -1,0 +1,11 @@
+.header {
+  background-color: var(--color0);
+  color: var(--color3);
+  height: 90px;
+  text-align: center;
+  font-family: var(--font1);
+  font-weight: bold;
+  line-height: 35px;
+  padding: 10px;
+}
+
